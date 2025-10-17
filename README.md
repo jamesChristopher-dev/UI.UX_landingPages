@@ -220,11 +220,10 @@ Suggested interview bullets:
 
 ## Contact / Author
 
-**Author:** Your Name
+**Author:** James Christopher
 
-* GitHub: `https://github.com/your-username`
-* Email: `your.email@example.com`
-  *(Replace placeholders with your real contact details.)*
+* GitHub: `https://github.com/jamesChristopher-dev`
+* Email: `jameschristopher.contact@gmail.com`
 
 ---
 
