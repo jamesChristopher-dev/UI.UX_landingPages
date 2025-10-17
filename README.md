@@ -233,18 +233,3 @@ Suggested interview bullets:
 ```
 MIT License — see LICENSE file for details.
 ```
-
----
-
-### Final (direct) action items to ship fast
-
-1. Replace placeholder contact & repo links.
-2. Add real case-study content under `/content/` (one strong case sells more than five weak ones).
-3. Wire booking CTA to Calendly + an automated “thanks” email with a short qualification form.
-4. Deploy to Vercel/Netlify and enable analytics + heatmaps (Hotjar).
-
-Want me to generate:
-
-* a polished `package.json` and `npm` scripts for this repo,
-* a GitHub Actions YAML that builds & deploys to Netlify, or
-* a one-week sprint plan (day-by-day) to ship this as a client-ready landing?
